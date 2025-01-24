@@ -72,7 +72,7 @@ You should be able to log in without being prompted for a password.
 #### **Automated Method (ssh-copy-id)**
 To avoid manually copying and pasting keys, use the `ssh-copy-id` command:
 ```bash
-ssh-copy-id -i ~/.ssh/id_rsa.pub ubuntu@<managed_node_ip_address>
+ssh-copy-id -i path-pemfile ubuntu@<managed_node_ip_address>
 ```
 This will copy the public key to the managed node and append it to the `authorized_keys` file.
 
