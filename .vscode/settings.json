@@ -1,0 +1,8 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/yamllint.json": "file:///c%3A/Users/HP/Desktop/Ankitha/Projects/Ansible/Policyascode/playbook.yml"
+    },
+    "ansible.python.interpreterPath": "c:\\Program Files\\Python313\\python.exe",
+    "ansible.lint.path": "/usr/local/bin/ansible-lint",
+    "workbench.editor.enablePreview": true
+}
